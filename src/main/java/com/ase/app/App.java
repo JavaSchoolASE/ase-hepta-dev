@@ -10,6 +10,19 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-public void comanAngela()
-{System.out.println("Coman Angela");}
+     public static void comanAngela()
+     {System.out.println("Coman Angela");}
+
+    public static void catalinaGherasim() {
+System.out.println("Catalina");
 }
+
+public static void RosuLucian() {
+		System.out.println("Lucian Rosu");
+	}
+public static void eduardPredescu(){
+		System.out.println("Eduard Predescu");
+	}
+
+}
+
