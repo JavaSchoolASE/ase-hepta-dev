@@ -13,4 +13,8 @@ public class App {
 	public void RosuLucian() {
 		System.out.println("Lucian Rosu");
 	}
+
+	public void eduardPredescu(){
+		System.out.println("Eduard Predescu");
+	}
 }
