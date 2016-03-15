@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public static void catalinaGherasim() {
+System.out.println("Catalina");
+}
 }
