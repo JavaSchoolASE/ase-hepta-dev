@@ -10,7 +10,7 @@ public class App {
 		System.out.println("Hello World!");
 	}
 
-	public void raduApostoleanu() {
+	public void RosuLucian() {
 		System.out.println("Lucian Rosu");
 	}
 }
