@@ -11,6 +11,10 @@ public class App
         System.out.println( "Hello World!" );
     }
 
+	public static void AlexandruOprescu() {
+		System.out.println("Seful lui Lucian Rosu");
+	}
+	
     public static void catalinaGherasim() {
 System.out.println("Catalina");
 }
