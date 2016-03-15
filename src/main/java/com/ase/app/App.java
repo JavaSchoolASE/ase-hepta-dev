@@ -14,4 +14,8 @@ public class App
     public static void catalinaGherasim() {
 System.out.println("Catalina");
 }
+
+public static void RosuLucian() {
+		System.out.println("Lucian Rosu");
+	}
 }
