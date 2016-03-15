@@ -10,18 +10,32 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-
+	
     public void adriana(){
 	System.out.println(“Adriana Anghel”);
 }
-	public void AlexandruOprescu(){
-		System.out.println("MERGEEE: Alexandru Oprescu");
-	
+
+public static void comanAngela()
+     {System.out.println("Coman Angela");}
+
+public static void cristianaBraga(){
+	System.out.println("Braga Cristiana");
 	}
 
+	public static void AlexandruOprescu() {
+		System.out.println("Seful lui Lucian Rosu");
+	}
+	
+    public static void catalinaGherasim() {
+System.out.println("Catalina");
+}
 
-	public void RosuLucian() {
+public static void RosuLucian() {
 		System.out.println("Lucian Rosu");
 	}
+public static void eduardPredescu(){
+		System.out.println("Eduard Predescu");
+	}
+
 }
 
