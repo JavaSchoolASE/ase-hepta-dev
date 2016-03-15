@@ -18,4 +18,9 @@ System.out.println("Catalina");
 public static void RosuLucian() {
 		System.out.println("Lucian Rosu");
 	}
+public static void eduardPredescu(){
+		System.out.println("Eduard Predescu");
+	}
+
 }
+
