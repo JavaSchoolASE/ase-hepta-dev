@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+
+public void burchiSebastian(){
+	System.out.println(“Burchi Sebastian”);
+}
+
 }
