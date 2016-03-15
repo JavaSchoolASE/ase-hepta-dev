@@ -10,8 +10,12 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-     public static void comanAngela()
+public static void comanAngela()
      {System.out.println("Coman Angela");}
+
+public static void cristianaBraga(){
+	System.out.println("Braga Cristiana");
+	}
 
     public static void catalinaGherasim() {
 System.out.println("Catalina");
